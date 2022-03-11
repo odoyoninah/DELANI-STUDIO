@@ -7,9 +7,15 @@
 
 }
 
-.text{
+.textA{
     text-align: center;
     color: white;
+}
+
+.textB{
+    text-align: center;
+    color: white;
+    font-size: 0.75em;
 }
 
 
