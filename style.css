@@ -11,3 +11,21 @@
     text-align: center;
     color: white;
 }
+
+
+.Phrase2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    text-align: center;
+}
+
+.img{
+    justify-content: center;
+    margin-left: 50%;
+}
+
+.mouse{
+    justify-content: center;
+    margin-left: 50%;
+    
+}
