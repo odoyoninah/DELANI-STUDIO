@@ -14,8 +14,8 @@
 
 
 .Phrase2{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.75em;
     text-align: center;
 }
 
@@ -28,4 +28,19 @@
     justify-content: center;
     margin-left: 50%;
     
+}
+
+.Phrase3{
+background-image: url(./images/img\ 2.jpg);
+background-repeat: no-repeat;
+background-position: 100%;
+background-size: cover;
+height: 100vh;   
+}
+
+.text2{
+    text-align: center;
+    color: white;
+    font-size: 0.75em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
