@@ -63,3 +63,22 @@ height: 100vh;
     text-align: center;
 }
 
+.Phrase6{
+    background-image: url(./images/img\ 3.jpg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+    height: 100vh;
+}
+
+.text3{
+    text-align: center;
+    color: white;  
+}
+
+.row{
+    color: transparent;
+}
+
+
+
