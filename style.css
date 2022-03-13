@@ -91,3 +91,33 @@ background-size: cover;
 .services1,.services2,.services3{
     display: none;
 }
+
+.folio{
+    display: none;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 2px solid white;
+    height: 90%;
+    width: 85%;
+    text-align: left;
+}
+
+.darken:before{
+    content: "";
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5));
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 100%;
+    width: 90%;
+    display: block;
+    
+}
+
+.folio1,.folio2,.folio3,.folio4,.folio5,.folio6,.folio7,.folio8{
+    position: relative;
+}
