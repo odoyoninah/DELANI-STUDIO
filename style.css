@@ -49,6 +49,7 @@ height: 100vh;
     color: white;
     font-size: 0.75em;
     font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 .Phrase4{
@@ -80,5 +81,7 @@ height: 100vh;
     color: transparent;
 }
 
-
-
+.Phrase7{
+    text-align: center;
+    
+}
