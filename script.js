@@ -47,3 +47,8 @@ folio.forEach(function(ele,index){
     })  
     
 })
+
+$(".message").submit(function(){
+    var Name = this.NAME.value
+    alert(Name+ " we have received your message. Thank you for reaching out to us.")
+})

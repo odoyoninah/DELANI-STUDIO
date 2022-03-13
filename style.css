@@ -121,3 +121,7 @@ background-size: cover;
 .folio1,.folio2,.folio3,.folio4,.folio5,.folio6,.folio7,.folio8{
     position: relative;
 }
+
+.message{
+    margin: 0% 20%;
+}
