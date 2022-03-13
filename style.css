@@ -87,3 +87,7 @@ background-size: cover;
 #floatingTextarea2{
     height: 250px!important;
 }
+
+.services1,.services2,.services3{
+    display: none;
+}
