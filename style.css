@@ -3,19 +3,20 @@
     background-repeat: no-repeat;
     background-position: 100%;
     background-size: cover;
-    height: 100vh;
 
 }
 
 .textA{
     text-align: center;
     color: white;
+    padding: 100px 0px;
 }
 
 .textB{
     text-align: center;
     color: white;
     font-size: 0.75em;
+    padding: 100px 0px;
 }
 
 
@@ -41,7 +42,7 @@ background-image: url(./images/img\ 2.jpg);
 background-repeat: no-repeat;
 background-position: 100%;
 background-size: cover;
-height: 100vh;   
+/* height: 100vh;    */
 }
 
 .text2{
@@ -49,6 +50,7 @@ height: 100vh;
     color: white;
     font-size: 0.75em;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 100px 0px;
 
 }
 
@@ -56,9 +58,7 @@ height: 100vh;
     text-align: center;
 }
 
-.col{
-    width: 25%;
-}
+
 
 .Phrase5{
     text-align: center;
@@ -69,7 +69,7 @@ height: 100vh;
     background-repeat: no-repeat;
     background-position: 100%;
     background-size: cover;
-    height: 100vh;
+
 }
 
 .text3{
@@ -77,11 +77,13 @@ height: 100vh;
     color: white;  
 }
 
-.row{
-    color: transparent;
-}
+
 
 .Phrase7{
     text-align: center;
     
+}
+
+#floatingTextarea2{
+    height: 250px!important;
 }
